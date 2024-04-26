@@ -1,0 +1,25 @@
+.background-img {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("images/train.jpg"); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+}
+.line-spacing {
+  line-height: 10; /* Adjust the line-height value as needed */
+}
+.background-img2 {
+  background-image: url("images/whitebg.jpg"); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+}
+.background-img3 {
+  background-image: url("images/yellowbg2.jpg"); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+}
